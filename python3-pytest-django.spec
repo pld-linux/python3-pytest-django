@@ -22,6 +22,7 @@ BuildRequires:	python3-setuptools_scm >= 1.11.1
 BuildRequires:	python3-django >= 2.2
 BuildRequires:	python3-django-configurations >= 2.0
 BuildRequires:	python3-pytest >= 5.4
+BuildRequires:	python3-pytest-xdist
 %endif
 %endif
 BuildRequires:	rpm-pythonprov
