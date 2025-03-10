@@ -7,7 +7,7 @@ Summary:	Django plugin for pytest
 Summary(pl.UTF-8):	Wtyczka Django dla pytesta
 Name:		python3-pytest-django
 Version:	4.5.2
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pytest-django/
